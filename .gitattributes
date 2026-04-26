@@ -1,0 +1,7 @@
+data filter=lfs diff=lfs merge=lfs -text
+online_retail_II.xlsx filter=lfs diff=lfs merge=lfs -text
+retail_analytics.db filter=lfs diff=lfs merge=lfs -text
+outputs filter=lfs diff=lfs merge=lfs -text
+sql filter=lfs diff=lfs merge=lfs -text
+sql_exports filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text

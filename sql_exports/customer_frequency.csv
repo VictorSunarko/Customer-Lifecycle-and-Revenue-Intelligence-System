@@ -1,0 +1,6 @@
+"frequency_bucket","customers","total_revenue","avg_ltv","avg_order_value","customer_share_pct","revenue_share_pct"
+"1 - One-Time",1626,564682.22,347.28,347.28,27.7,3.2
+"2 - Occasional (2-3)",1605,1568991.75,977.56,410.41,27.4,9.0
+"3 - Regular (4-6)",1128,1891790.06,1677.12,346.83,19.2,10.9
+"4 - Frequent (7-12)",861,3083812.55,3581.66,393.74,14.7,17.7
+"5 - High Frequency (13+)",644,10268565.31,15944.98,481.3,11.0,59.1
